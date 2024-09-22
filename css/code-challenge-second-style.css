@@ -1,0 +1,15 @@
+body {
+  background-color: orange;
+}
+
+h2 {
+  color: white;
+}
+
+.nearlyFullWidth {
+  background-color: violet;
+}
+
+.nearlyHalfWidth {
+  background-color: skyblue;
+}
